@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1050363549843",
+    "firebase_url": "https://gadidriver-377205-default-rtdb.firebaseio.com",
+    "project_id": "gadidriver-377205",
+    "storage_bucket": "gadidriver-377205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050363549843:android:99dba5cb6492f1b2ff1566",
+        "android_client_info": {
+          "package_name": "com.pttc.gadidriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050363549843-jnp3449umu3m4s9inci85ugiev0tml23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSmvAJ5yX1bfJalfE2hWJhZSLI_uGSe2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050363549843-jnp3449umu3m4s9inci85ugiev0tml23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050363549843:android:374461eb4de87ecdff1566",
+        "android_client_info": {
+          "package_name": "com.pttc.gadiuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050363549843-jnp3449umu3m4s9inci85ugiev0tml23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSmvAJ5yX1bfJalfE2hWJhZSLI_uGSe2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050363549843-jnp3449umu3m4s9inci85ugiev0tml23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
